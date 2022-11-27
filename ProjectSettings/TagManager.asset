@@ -8,6 +8,8 @@ TagManager:
   - Cans
   - Plate
   - Drawer
+  - Drone
+  - mug
   layers:
   - Default
   - TransparentFX
@@ -17,8 +19,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - XR Teleport
+  - Post-Processing
   - 
   - 
   - 
